@@ -21,6 +21,6 @@
     "color4":"7",
     "stop":"0",
     "tb":"Maintenance",
-    "nv":"1",
-    "xpath":"//div[@id='leagueBonusPlatinum' and @style='opacity: 1;']"
+    "nv":"0",
+    "xpath":""
 }
