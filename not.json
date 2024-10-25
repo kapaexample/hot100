@@ -19,7 +19,7 @@
     "c4":"869",
     "d4":"465",
     "color4":"10",
-    "stop":"0",
+    "stop":"1",
     "tb":"Maintenance",
     "nv":"1",
     "xpath":"//div[@id='jetton' and style='opacity: 1;']"
