@@ -21,6 +21,6 @@
     "color4":"10",
     "stop":"0",
     "tb":"Maintenance",
-    "nv":"0",
-    "xpath":""
+    "nv":"1",
+    "xpath":"//div[@id='jetton' and style='opacity: 1;']"
 }
